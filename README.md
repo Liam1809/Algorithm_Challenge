@@ -1,1 +1,1 @@
-# Algorithm_Challenge in HACKERRANK
+# Algorithm_Challenge in Hackerrank
